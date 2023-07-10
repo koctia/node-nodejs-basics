@@ -1,4 +1,4 @@
-# Assignment: CRUD API
+# Assignment: Node.js basics
 
 task [https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/nodejs-basics/assignment.md](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/nodejs-basics/assignment.md)
 
