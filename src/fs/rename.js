@@ -1,4 +1,4 @@
-import * as fsp from 'node:fs/promises';
+import fsp from 'node:fs/promises';
 import path from 'node:path';
 import url from 'node:url';
 import { fileExists } from '../utility/function.js';
